@@ -1,0 +1,69 @@
+[submodule "awesome/awesome-ios-cn"]
+	path = awesome/awesome-ios-cn
+	url = https://github.com/jobbole/awesome-ios-cn.git
+[submodule "awesome/awesome-ios-en"]
+	path = awesome/awesome-ios-en
+	url = https://github.com/vsouza/awesome-ios.git
+[submodule "awesome/open-source-ios-apps"]
+	path = awesome/open-source-ios-apps
+	url = https://github.com/dkhamsing/open-source-ios-apps.git
+[submodule "awesome/trip-to-iOS"]
+	path = awesome/trip-to-iOS
+	url = https://github.com/Aufree/trip-to-iOS.git
+[submodule "awesome/TimLiu-iOS"]
+	path = awesome/TimLiu-iOS
+	url = https://github.com/Tim9Liu9/TimLiu-iOS.git
+[submodule "awesome/awesome-ios-ui"]
+	path = awesome/awesome-ios-ui
+	url = https://github.com/cjwirth/awesome-ios-ui.git
+[submodule "awesome/Animations"]
+	path = awesome/Animations
+	url = https://github.com/YouXianMing/Animations.git
+[submodule "awesome/awesome-algorithms"]
+	path = awesome/awesome-algorithms
+	url = https://github.com/tayllan/awesome-algorithms.git
+[submodule "best-practices/ios-good-practices-cn"]
+	path = best-practices/ios-good-practices-cn
+	url = https://github.com/KevinHM/ios-good-practices-the-lastest-version.git
+[submodule "best-practices/ios-good-practices-en"]
+	path = best-practices/ios-good-practices-en
+	url = https://github.com/futurice/ios-good-practices.git
+[submodule "best-practices/Swift-Community-Best-Practices"]
+	path = best-practices/Swift-Community-Best-Practices
+	url = https://github.com/schwa/Swift-Community-Best-Practices.git
+[submodule "ios-tips"]
+	path = ios-tips
+	url = https://github.com/coolnameismy/ios-tips.git
+[submodule "code-reading/Design-Pattern-For-iOS"]
+	path = code-reading/Design-Pattern-For-iOS
+	url = https://github.com/huang303513/Design-Pattern-For-iOS.git
+[submodule "code-reading/iOS-8-Sampler"]
+	path = code-reading/iOS-8-Sampler
+	url = https://github.com/shu223/iOS8-Sampler.git
+[submodule "code-reading/iOS-9-Sampler"]
+	path = code-reading/iOS-9-Sampler
+	url = https://github.com/shu223/iOS-9-Sampler.git
+[submodule "code-reading/iOS-Source-Code-Analyze"]
+	path = code-reading/iOS-Source-Code-Analyze
+	url = https://github.com/Draveness/iOS-Source-Code-Analyze.git
+[submodule "framework/YYKit"]
+	path = framework/YYKit
+	url = https://github.com/ibireme/YYKit.git
+[submodule "weekly/BaiduHiDeviOS"]
+	path = weekly/BaiduHiDeviOS
+	url = https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly.git
+[submodule "weekly/WeMobileDev-article"]
+	path = weekly/WeMobileDev-article
+	url = https://github.com/WeMobileDev/article.git
+[submodule "weekly/gold-miner"]
+	path = weekly/gold-miner
+	url = https://github.com/xitu/gold-miner.git
+[submodule "weekly/manong"]
+	path = weekly/manong
+	url = https://github.com/nemoTyrant/manong.git
+[submodule "adaptation/iOS9AdaptationTips"]
+	path = adaptation/iOS9AdaptationTips
+	url = https://github.com/ChenYilong/iOS9AdaptationTips.git
+[submodule "adaptation/iOS10AdaptationTips"]
+	path = adaptation/iOS10AdaptationTips
+	url = https://github.com/ChenYilong/iOS10AdaptationTips.git
