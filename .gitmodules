@@ -79,3 +79,36 @@
 [submodule "day-by-day/iOS10-day-by-day"]
 	path = day-by-day/iOS10-day-by-day
 	url = https://github.com/shinobicontrols/iOS10-day-by-day.git
+[submodule "awesome/SwiftGuide"]
+	path = awesome/SwiftGuide
+	url = https://github.com/ipader/SwiftGuide.git
+[submodule "awesome/HowToBeAProgrammer"]
+	path = awesome/HowToBeAProgrammer
+	url = https://github.com/braydie/HowToBeAProgrammer.git
+[submodule "awesome/awesome-swift"]
+	path = awesome/awesome-swift
+	url = https://github.com/matteocrippa/awesome-swift.git
+[submodule "day-by-day/30DaysofSwift"]
+	path = day-by-day/30DaysofSwift
+	url = https://github.com/allenwong/30DaysofSwift.git
+[submodule "code-reading/swift-algorithm-club"]
+	path = code-reading/swift-algorithm-club
+	url = https://github.com/raywenderlich/swift-algorithm-club.git
+[submodule "awesome/FlatUIKit"]
+	path = awesome/FlatUIKit
+	url = https://github.com/Grouper/FlatUIKit.git
+[submodule "framework/Chameleon"]
+	path = framework/Chameleon
+	url = https://github.com/ViccAlexander/Chameleon.git
+[submodule "style-guide/swift-style-guide"]
+	path = style-guide/swift-style-guide
+	url = https://github.com/raywenderlich/swift-style-guide.git
+[submodule "style-guide/alllanguages-style-guide"]
+	path = style-guide/alllanguages-style-guide
+	url = https://github.com/google/styleguide.git
+[submodule "awesome/Awesome-Swift-Education"]
+	path = awesome/Awesome-Swift-Education
+	url = https://github.com/hsavit1/Awesome-Swift-Education.git
+[submodule "awesome/iOSBlogCN"]
+	path = awesome/iOSBlogCN
+	url = https://github.com/tangqiaoboy/iOSBlogCN.git
