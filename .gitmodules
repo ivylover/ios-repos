@@ -67,3 +67,15 @@
 [submodule "adaptation/iOS10AdaptationTips"]
 	path = adaptation/iOS10AdaptationTips
 	url = https://github.com/ChenYilong/iOS10AdaptationTips.git
+[submodule "day-by-day/iOS7-day-by-day"]
+	path = day-by-day/iOS7-day-by-day
+	url = https://github.com/shinobicontrols/iOS7-day-by-day.git
+[submodule "day-by-day/iOS8-day-by-day"]
+	path = day-by-day/iOS8-day-by-day
+	url = https://github.com/shinobicontrols/iOS8-day-by-day.git
+[submodule "day-by-day/iOS9-day-by-day"]
+	path = day-by-day/iOS9-day-by-day
+	url = https://github.com/shinobicontrols/iOS9-day-by-day.git
+[submodule "day-by-day/iOS10-day-by-day"]
+	path = day-by-day/iOS10-day-by-day
+	url = https://github.com/shinobicontrols/iOS10-day-by-day.git
