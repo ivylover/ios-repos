@@ -112,3 +112,6 @@
 [submodule "awesome/iOSBlogCN"]
 	path = awesome/iOSBlogCN
 	url = https://github.com/tangqiaoboy/iOSBlogCN.git
+[submodule "code-reading/ParseSourceCodeStudy"]
+	path = code-reading/ParseSourceCodeStudy
+	url = https://github.com/ChenYilong/ParseSourceCodeStudy
