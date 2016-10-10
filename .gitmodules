@@ -103,9 +103,6 @@
 [submodule "style-guide/swift-style-guide"]
 	path = style-guide/swift-style-guide
 	url = https://github.com/raywenderlich/swift-style-guide.git
-[submodule "style-guide/alllanguages-style-guide"]
-	path = style-guide/alllanguages-style-guide
-	url = https://github.com/google/styleguide.git
 [submodule "awesome/Awesome-Swift-Education"]
 	path = awesome/Awesome-Swift-Education
 	url = https://github.com/hsavit1/Awesome-Swift-Education.git
@@ -115,3 +112,6 @@
 [submodule "code-reading/ParseSourceCodeStudy"]
 	path = code-reading/ParseSourceCodeStudy
 	url = https://github.com/ChenYilong/ParseSourceCodeStudy
+[submodule "style-guide/google-style-guide"]
+	path = style-guide/google-style-guide
+	url = https://github.com/google/styleguide.git
