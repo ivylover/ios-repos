@@ -112,6 +112,6 @@
 [submodule "code-reading/ParseSourceCodeStudy"]
 	path = code-reading/ParseSourceCodeStudy
 	url = https://github.com/ChenYilong/ParseSourceCodeStudy
-[submodule "style-guide/google-style-guide"]
-	path = style-guide/google-style-guide
+[submodule "style-guide/google-styleguide"]
+	path = style-guide/google-styleguide
 	url = https://github.com/google/styleguide.git
